@@ -2,7 +2,7 @@
 
 Sebuah aplikasi berbasis web untuk sistem kehadiran/absensi menggunakan teknologi QR Code dengan antarmuka dalam Bahasa Indonesia.
 
-![alt text](1.png)
+![alt text](image.png)
 
 ## Fitur Utama
 
