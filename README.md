@@ -67,7 +67,7 @@ Sebuah aplikasi berbasis web untuk sistem kehadiran/absensi menggunakan teknolog
 
 ## Kontribusi
 
-Kontribusi selalu disambut! Silakan buat *pull request* atau laporkan masalah melalui *issue*.
+silahkan email habizinnia@gmail.com jika butuh repo ini
 
 ## Lisensi
 
